@@ -1,3 +1,4 @@
 git no rensyuu
 git add
 git commit
+git rm
